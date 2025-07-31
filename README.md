@@ -29,7 +29,7 @@ This application uses the [OpenWeatherMap API](https://openweathermap.org/api) t
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/NAILLAHHHH/WeatherApp.git)
 cd WeatherApp
 ```
 
